@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-01-19T23:57:44Z" name="test.com.FirstProject" finished-at="2024-01-19T23:57:44Z" duration-ms="23">
+    <groups>
+    </groups>
+    <test started-at="2024-01-19T23:57:44Z" name="Command line test" finished-at="2024-01-19T23:57:44Z" duration-ms="23">
+      <class name="test.com.FirstProject">
+        <test-method is-config="true" signature="setUpClass()[pri:0, instance:test.com.FirstProject@34c4973]" started-at="2024-01-19T18:57:44Z" name="setUpClass" finished-at="2024-01-19T18:57:44Z" duration-ms="11" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpClass -->
+        <test-method is-config="true" signature="setUpMethod()[pri:0, instance:test.com.FirstProject@34c4973]" started-at="2024-01-19T18:57:44Z" name="setUpMethod" finished-at="2024-01-19T18:57:44Z" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpMethod -->
+        <test-method signature="testName()[pri:0, instance:test.com.FirstProject@34c4973]" started-at="2024-01-19T18:57:44Z" name="testName" finished-at="2024-01-19T18:57:44Z" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testName -->
+        <test-method is-config="true" signature="tearDownMethod()[pri:0, instance:test.com.FirstProject@34c4973]" started-at="2024-01-19T18:57:44Z" name="tearDownMethod" finished-at="2024-01-19T18:57:44Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownMethod -->
+        <test-method is-config="true" signature="tearDownClass()[pri:0, instance:test.com.FirstProject@34c4973]" started-at="2024-01-19T18:57:44Z" name="tearDownClass" finished-at="2024-01-19T18:57:44Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownClass -->
+      </class> <!-- test.com.FirstProject -->
+    </test> <!-- Command line test -->
+  </suite> <!-- test.com.FirstProject -->
+</testng-results>
